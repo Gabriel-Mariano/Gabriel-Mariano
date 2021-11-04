@@ -2,8 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mariano-oliveira-12414b1a6)
 
-Me chamo **Gabriel**, estou me formando em Análise e Desenvolvimento de Sistemas. Me considero apaixonado por tecnologia e acredito que isso que me move. Atualmente estou no 
-mercado atuando como front-end, mas aqui também tenho trazido experiências em backend.
+Me chamo **Gabriel**, estou me formando em Análise e Desenvolvimento de Sistemas. Me considero apaixonado por tecnologia e acredito que isso que me move. Meu legado sempre será buscar algo novo e compartilhar. 
 
 'O pior fracasso é aquele que não houve tentativas' (Cristiano, Filósofo).
 
